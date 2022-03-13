@@ -77,7 +77,7 @@ namespace ThisIsNotArt.Model
 
 		#region ASCII
 		/*
-		 *        ?YJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJY^                                             
+		 *?YJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJY^                                             
                   &5^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^!@!                                             
                   #J                                :@!                                             
                   #J                                :@!                                             
