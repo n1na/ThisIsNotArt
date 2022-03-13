@@ -1,6 +1,8 @@
 # this is not art
 [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
 
+[Download executable](https://github.com/n1na/ThisIsNotArt/releases/tag/v1.0)
+
 application of human creative skill and imagination\
 Software is not art, but craft. Art appeals to the emotions. Does that mean a bad movie or a blank canvas are not art?\
 
