@@ -1,4 +1,4 @@
-# ThisIsNotArt
+# this is not art
 [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
 
 application of human creative skill and imagination\
