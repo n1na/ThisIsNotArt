@@ -4,18 +4,18 @@
 [Download executable](https://github.com/n1na/ThisIsNotArt/releases/tag/v1.0)
 
 application of human creative skill and imagination\
-Software is not art, but craft. Art appeals to the emotions. Does that mean a bad movie or a blank canvas are not art?\
+Software is not art, but craft. Art appeals to the emotions. Does that mean a bad movie or a blank canvas are not art?
 
 Is code just a natural extension of suprematism?
 
 ## Attributions
-### Music
+* Music\
 [White Smoker by Frequency Decree](https://freemusicarchive.org/music/Frequency_Decree/cenote/white-smoker)
 
-### Font
+* Font\
 [Clip by Martín Argüello](https://www.1001fonts.com/clip-font.html)
 
-### Cursors
+* Cursors\
 [Delta Neon Red by Riddler](http://www.rw-designer.com/cursor-set/delta-neon-red)
 
 ## Built With
